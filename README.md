@@ -15,4 +15,5 @@ Portuguese Records -> Raposo, Vítor; Torres, Jorge; "Livro de Recordes", Volume
 Link: https://fpnatacao.pt/uploads/livrorecordes_2017-web.pdf
 
 World Records -> https://en.wikipedia.org/wiki/World_record_progression_50_metres_freestyle
+
 American Records -> https://www.usaswimming.org/times/data-hub/record-progressions
